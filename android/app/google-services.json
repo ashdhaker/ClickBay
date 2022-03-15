@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "916859437800",
+        "project_id": "clickbay-ae0ea",
+        "storage_bucket": "clickbay-ae0ea.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:916859437800:android:9366cafd02f0f22e593f5d",
+                "android_client_info": {
+                    "package_name": "com.example.clickbay_flutter"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "916859437800-cd6io31pmnhp7gr0jah33hfp8rutocbb.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDPAsGhFtG84tp-bBfyMc8BYJXL3_S5rPk"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "916859437800-cd6io31pmnhp7gr0jah33hfp8rutocbb.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
