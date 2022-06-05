@@ -9,10 +9,8 @@ too run app
 ---> open terminal 
 ---> run command
 
+flutter run -d chrome --web-renderer html --no-sound-null-safety => Web App
 
-............../
-flutter run -d chrome --web-renderer html --no-sound-null-safety =>Web App
-............../
 flutter run --no-sound-null-safety =>Android App
 
 
