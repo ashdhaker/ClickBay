@@ -22,8 +22,9 @@ timelines, and likes/comments
 - Implemented Search Feature for finding users
 
 ### Technologies Used
+
 - Flutter ,Dart ,Firebase
-- 
+
 ## App Images
 
 ##### Home Page
